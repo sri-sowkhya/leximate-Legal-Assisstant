@@ -1,0 +1,21 @@
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Backend generated files
+backend_org/generated_pdfs/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDEs
+.vscode/
+.idea/
+
